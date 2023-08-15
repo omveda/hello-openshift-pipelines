@@ -1,0 +1,2 @@
+JAVA_MAIN_CLASS=com.redhat.opentour.App
+JAVA_APP_JAR=hello-1.0-SNAPSHOT-jar-with-dependencies.jar
